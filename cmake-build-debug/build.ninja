@@ -49,11 +49,11 @@ cmake_ninja_workdir = C$:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-deb
 
 build cmake_object_order_depends_target_Task1: phony || CMakeFiles/Task1.dir
 
-build CMakeFiles/Task1.dir/Week1/Task1.cpp.obj: CXX_COMPILER__Task1_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task1.cpp || cmake_object_order_depends_target_Task1
-  DEP_FILE = CMakeFiles\Task1.dir\Week1\Task1.cpp.obj.d
+build CMakeFiles/Task1.dir/Practice/Week1/Task1.cpp.obj: CXX_COMPILER__Task1_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task1.cpp || cmake_object_order_depends_target_Task1
+  DEP_FILE = CMakeFiles\Task1.dir\Practice\Week1\Task1.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task1.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task1.dir\Practice\Week1
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/Task1.dir/Week1/Task1.cpp.obj: CXX_COMPILER__Task1_unscanned_De
 #############################################
 # Link the executable Task1.exe
 
-build Task1.exe: CXX_EXECUTABLE_LINKER__Task1_Debug CMakeFiles/Task1.dir/Week1/Task1.cpp.obj
+build Task1.exe: CXX_EXECUTABLE_LINKER__Task1_Debug CMakeFiles/Task1.dir/Practice/Week1/Task1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task1.dir
@@ -82,11 +82,11 @@ build Task1.exe: CXX_EXECUTABLE_LINKER__Task1_Debug CMakeFiles/Task1.dir/Week1/T
 
 build cmake_object_order_depends_target_Task2: phony || CMakeFiles/Task2.dir
 
-build CMakeFiles/Task2.dir/Week1/Task2.cpp.obj: CXX_COMPILER__Task2_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task2.cpp || cmake_object_order_depends_target_Task2
-  DEP_FILE = CMakeFiles\Task2.dir\Week1\Task2.cpp.obj.d
+build CMakeFiles/Task2.dir/Practice/Week1/Task2.cpp.obj: CXX_COMPILER__Task2_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task2.cpp || cmake_object_order_depends_target_Task2
+  DEP_FILE = CMakeFiles\Task2.dir\Practice\Week1\Task2.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task2.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task2.dir\Practice\Week1
 
 
 # =============================================================================
@@ -96,7 +96,7 @@ build CMakeFiles/Task2.dir/Week1/Task2.cpp.obj: CXX_COMPILER__Task2_unscanned_De
 #############################################
 # Link the executable Task2.exe
 
-build Task2.exe: CXX_EXECUTABLE_LINKER__Task2_Debug CMakeFiles/Task2.dir/Week1/Task2.cpp.obj
+build Task2.exe: CXX_EXECUTABLE_LINKER__Task2_Debug CMakeFiles/Task2.dir/Practice/Week1/Task2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task2.dir
@@ -115,11 +115,11 @@ build Task2.exe: CXX_EXECUTABLE_LINKER__Task2_Debug CMakeFiles/Task2.dir/Week1/T
 
 build cmake_object_order_depends_target_Task3: phony || CMakeFiles/Task3.dir
 
-build CMakeFiles/Task3.dir/Week1/Task3.cpp.obj: CXX_COMPILER__Task3_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task3.cpp || cmake_object_order_depends_target_Task3
-  DEP_FILE = CMakeFiles\Task3.dir\Week1\Task3.cpp.obj.d
+build CMakeFiles/Task3.dir/Practice/Week1/Task3.cpp.obj: CXX_COMPILER__Task3_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task3.cpp || cmake_object_order_depends_target_Task3
+  DEP_FILE = CMakeFiles\Task3.dir\Practice\Week1\Task3.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task3.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task3.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task3.dir\Practice\Week1
 
 
 # =============================================================================
@@ -129,7 +129,7 @@ build CMakeFiles/Task3.dir/Week1/Task3.cpp.obj: CXX_COMPILER__Task3_unscanned_De
 #############################################
 # Link the executable Task3.exe
 
-build Task3.exe: CXX_EXECUTABLE_LINKER__Task3_Debug CMakeFiles/Task3.dir/Week1/Task3.cpp.obj
+build Task3.exe: CXX_EXECUTABLE_LINKER__Task3_Debug CMakeFiles/Task3.dir/Practice/Week1/Task3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task3.dir
@@ -148,11 +148,11 @@ build Task3.exe: CXX_EXECUTABLE_LINKER__Task3_Debug CMakeFiles/Task3.dir/Week1/T
 
 build cmake_object_order_depends_target_Task4: phony || CMakeFiles/Task4.dir
 
-build CMakeFiles/Task4.dir/Week1/Task4.cpp.obj: CXX_COMPILER__Task4_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task4.cpp || cmake_object_order_depends_target_Task4
-  DEP_FILE = CMakeFiles\Task4.dir\Week1\Task4.cpp.obj.d
+build CMakeFiles/Task4.dir/Practice/Week1/Task4.cpp.obj: CXX_COMPILER__Task4_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task4.cpp || cmake_object_order_depends_target_Task4
+  DEP_FILE = CMakeFiles\Task4.dir\Practice\Week1\Task4.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task4.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task4.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task4.dir\Practice\Week1
 
 
 # =============================================================================
@@ -162,7 +162,7 @@ build CMakeFiles/Task4.dir/Week1/Task4.cpp.obj: CXX_COMPILER__Task4_unscanned_De
 #############################################
 # Link the executable Task4.exe
 
-build Task4.exe: CXX_EXECUTABLE_LINKER__Task4_Debug CMakeFiles/Task4.dir/Week1/Task4.cpp.obj
+build Task4.exe: CXX_EXECUTABLE_LINKER__Task4_Debug CMakeFiles/Task4.dir/Practice/Week1/Task4.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task4.dir
@@ -181,11 +181,11 @@ build Task4.exe: CXX_EXECUTABLE_LINKER__Task4_Debug CMakeFiles/Task4.dir/Week1/T
 
 build cmake_object_order_depends_target_Task5: phony || CMakeFiles/Task5.dir
 
-build CMakeFiles/Task5.dir/Week1/Task5.cpp.obj: CXX_COMPILER__Task5_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task5.cpp || cmake_object_order_depends_target_Task5
-  DEP_FILE = CMakeFiles\Task5.dir\Week1\Task5.cpp.obj.d
+build CMakeFiles/Task5.dir/Practice/Week1/Task5.cpp.obj: CXX_COMPILER__Task5_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task5.cpp || cmake_object_order_depends_target_Task5
+  DEP_FILE = CMakeFiles\Task5.dir\Practice\Week1\Task5.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task5.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task5.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task5.dir\Practice\Week1
 
 
 # =============================================================================
@@ -195,7 +195,7 @@ build CMakeFiles/Task5.dir/Week1/Task5.cpp.obj: CXX_COMPILER__Task5_unscanned_De
 #############################################
 # Link the executable Task5.exe
 
-build Task5.exe: CXX_EXECUTABLE_LINKER__Task5_Debug CMakeFiles/Task5.dir/Week1/Task5.cpp.obj
+build Task5.exe: CXX_EXECUTABLE_LINKER__Task5_Debug CMakeFiles/Task5.dir/Practice/Week1/Task5.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task5.dir
@@ -214,11 +214,11 @@ build Task5.exe: CXX_EXECUTABLE_LINKER__Task5_Debug CMakeFiles/Task5.dir/Week1/T
 
 build cmake_object_order_depends_target_Task6: phony || CMakeFiles/Task6.dir
 
-build CMakeFiles/Task6.dir/Week1/Task6.cpp.obj: CXX_COMPILER__Task6_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task6.cpp || cmake_object_order_depends_target_Task6
-  DEP_FILE = CMakeFiles\Task6.dir\Week1\Task6.cpp.obj.d
+build CMakeFiles/Task6.dir/Practice/Week1/Task6.cpp.obj: CXX_COMPILER__Task6_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task6.cpp || cmake_object_order_depends_target_Task6
+  DEP_FILE = CMakeFiles\Task6.dir\Practice\Week1\Task6.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task6.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task6.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task6.dir\Practice\Week1
 
 
 # =============================================================================
@@ -228,7 +228,7 @@ build CMakeFiles/Task6.dir/Week1/Task6.cpp.obj: CXX_COMPILER__Task6_unscanned_De
 #############################################
 # Link the executable Task6.exe
 
-build Task6.exe: CXX_EXECUTABLE_LINKER__Task6_Debug CMakeFiles/Task6.dir/Week1/Task6.cpp.obj
+build Task6.exe: CXX_EXECUTABLE_LINKER__Task6_Debug CMakeFiles/Task6.dir/Practice/Week1/Task6.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task6.dir
@@ -247,11 +247,11 @@ build Task6.exe: CXX_EXECUTABLE_LINKER__Task6_Debug CMakeFiles/Task6.dir/Week1/T
 
 build cmake_object_order_depends_target_Task7: phony || CMakeFiles/Task7.dir
 
-build CMakeFiles/Task7.dir/Week1/Task7.cpp.obj: CXX_COMPILER__Task7_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task7.cpp || cmake_object_order_depends_target_Task7
-  DEP_FILE = CMakeFiles\Task7.dir\Week1\Task7.cpp.obj.d
+build CMakeFiles/Task7.dir/Practice/Week1/Task7.cpp.obj: CXX_COMPILER__Task7_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task7.cpp || cmake_object_order_depends_target_Task7
+  DEP_FILE = CMakeFiles\Task7.dir\Practice\Week1\Task7.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task7.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task7.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task7.dir\Practice\Week1
 
 
 # =============================================================================
@@ -261,7 +261,7 @@ build CMakeFiles/Task7.dir/Week1/Task7.cpp.obj: CXX_COMPILER__Task7_unscanned_De
 #############################################
 # Link the executable Task7.exe
 
-build Task7.exe: CXX_EXECUTABLE_LINKER__Task7_Debug CMakeFiles/Task7.dir/Week1/Task7.cpp.obj
+build Task7.exe: CXX_EXECUTABLE_LINKER__Task7_Debug CMakeFiles/Task7.dir/Practice/Week1/Task7.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task7.dir
@@ -280,11 +280,11 @@ build Task7.exe: CXX_EXECUTABLE_LINKER__Task7_Debug CMakeFiles/Task7.dir/Week1/T
 
 build cmake_object_order_depends_target_Task8: phony || CMakeFiles/Task8.dir
 
-build CMakeFiles/Task8.dir/Week1/Task8.cpp.obj: CXX_COMPILER__Task8_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task8.cpp || cmake_object_order_depends_target_Task8
-  DEP_FILE = CMakeFiles\Task8.dir\Week1\Task8.cpp.obj.d
+build CMakeFiles/Task8.dir/Practice/Week1/Task8.cpp.obj: CXX_COMPILER__Task8_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task8.cpp || cmake_object_order_depends_target_Task8
+  DEP_FILE = CMakeFiles\Task8.dir\Practice\Week1\Task8.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task8.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task8.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task8.dir\Practice\Week1
 
 
 # =============================================================================
@@ -294,7 +294,7 @@ build CMakeFiles/Task8.dir/Week1/Task8.cpp.obj: CXX_COMPILER__Task8_unscanned_De
 #############################################
 # Link the executable Task8.exe
 
-build Task8.exe: CXX_EXECUTABLE_LINKER__Task8_Debug CMakeFiles/Task8.dir/Week1/Task8.cpp.obj
+build Task8.exe: CXX_EXECUTABLE_LINKER__Task8_Debug CMakeFiles/Task8.dir/Practice/Week1/Task8.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task8.dir
@@ -313,11 +313,11 @@ build Task8.exe: CXX_EXECUTABLE_LINKER__Task8_Debug CMakeFiles/Task8.dir/Week1/T
 
 build cmake_object_order_depends_target_Task9: phony || CMakeFiles/Task9.dir
 
-build CMakeFiles/Task9.dir/Week1/Task9.cpp.obj: CXX_COMPILER__Task9_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task9.cpp || cmake_object_order_depends_target_Task9
-  DEP_FILE = CMakeFiles\Task9.dir\Week1\Task9.cpp.obj.d
+build CMakeFiles/Task9.dir/Practice/Week1/Task9.cpp.obj: CXX_COMPILER__Task9_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task9.cpp || cmake_object_order_depends_target_Task9
+  DEP_FILE = CMakeFiles\Task9.dir\Practice\Week1\Task9.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task9.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task9.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task9.dir\Practice\Week1
 
 
 # =============================================================================
@@ -327,7 +327,7 @@ build CMakeFiles/Task9.dir/Week1/Task9.cpp.obj: CXX_COMPILER__Task9_unscanned_De
 #############################################
 # Link the executable Task9.exe
 
-build Task9.exe: CXX_EXECUTABLE_LINKER__Task9_Debug CMakeFiles/Task9.dir/Week1/Task9.cpp.obj
+build Task9.exe: CXX_EXECUTABLE_LINKER__Task9_Debug CMakeFiles/Task9.dir/Practice/Week1/Task9.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task9.dir
@@ -346,11 +346,11 @@ build Task9.exe: CXX_EXECUTABLE_LINKER__Task9_Debug CMakeFiles/Task9.dir/Week1/T
 
 build cmake_object_order_depends_target_Task10: phony || CMakeFiles/Task10.dir
 
-build CMakeFiles/Task10.dir/Week1/Task10.cpp.obj: CXX_COMPILER__Task10_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task10.cpp || cmake_object_order_depends_target_Task10
-  DEP_FILE = CMakeFiles\Task10.dir\Week1\Task10.cpp.obj.d
+build CMakeFiles/Task10.dir/Practice/Week1/Task10.cpp.obj: CXX_COMPILER__Task10_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task10.cpp || cmake_object_order_depends_target_Task10
+  DEP_FILE = CMakeFiles\Task10.dir\Practice\Week1\Task10.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task10.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task10.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task10.dir\Practice\Week1
 
 
 # =============================================================================
@@ -360,7 +360,7 @@ build CMakeFiles/Task10.dir/Week1/Task10.cpp.obj: CXX_COMPILER__Task10_unscanned
 #############################################
 # Link the executable Task10.exe
 
-build Task10.exe: CXX_EXECUTABLE_LINKER__Task10_Debug CMakeFiles/Task10.dir/Week1/Task10.cpp.obj
+build Task10.exe: CXX_EXECUTABLE_LINKER__Task10_Debug CMakeFiles/Task10.dir/Practice/Week1/Task10.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task10.dir
@@ -379,11 +379,11 @@ build Task10.exe: CXX_EXECUTABLE_LINKER__Task10_Debug CMakeFiles/Task10.dir/Week
 
 build cmake_object_order_depends_target_Task11: phony || CMakeFiles/Task11.dir
 
-build CMakeFiles/Task11.dir/Week1/Task11.cpp.obj: CXX_COMPILER__Task11_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week1/Task11.cpp || cmake_object_order_depends_target_Task11
-  DEP_FILE = CMakeFiles\Task11.dir\Week1\Task11.cpp.obj.d
+build CMakeFiles/Task11.dir/Practice/Week1/Task11.cpp.obj: CXX_COMPILER__Task11_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week1/Task11.cpp || cmake_object_order_depends_target_Task11
+  DEP_FILE = CMakeFiles\Task11.dir\Practice\Week1\Task11.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Task11.dir
-  OBJECT_FILE_DIR = CMakeFiles\Task11.dir\Week1
+  OBJECT_FILE_DIR = CMakeFiles\Task11.dir\Practice\Week1
 
 
 # =============================================================================
@@ -393,7 +393,7 @@ build CMakeFiles/Task11.dir/Week1/Task11.cpp.obj: CXX_COMPILER__Task11_unscanned
 #############################################
 # Link the executable Task11.exe
 
-build Task11.exe: CXX_EXECUTABLE_LINKER__Task11_Debug CMakeFiles/Task11.dir/Week1/Task11.cpp.obj
+build Task11.exe: CXX_EXECUTABLE_LINKER__Task11_Debug CMakeFiles/Task11.dir/Practice/Week1/Task11.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Task11.dir
@@ -412,11 +412,11 @@ build Task11.exe: CXX_EXECUTABLE_LINKER__Task11_Debug CMakeFiles/Task11.dir/Week
 
 build cmake_object_order_depends_target_2Task1: phony || CMakeFiles/2Task1.dir
 
-build CMakeFiles/2Task1.dir/Week2/Task1.cpp.obj: CXX_COMPILER__2Task1_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task1.cpp || cmake_object_order_depends_target_2Task1
-  DEP_FILE = CMakeFiles\2Task1.dir\Week2\Task1.cpp.obj.d
+build CMakeFiles/2Task1.dir/Practice/Week2/Task1.cpp.obj: CXX_COMPILER__2Task1_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task1.cpp || cmake_object_order_depends_target_2Task1
+  DEP_FILE = CMakeFiles\2Task1.dir\Practice\Week2\Task1.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task1.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task1.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task1.dir\Practice\Week2
 
 
 # =============================================================================
@@ -426,7 +426,7 @@ build CMakeFiles/2Task1.dir/Week2/Task1.cpp.obj: CXX_COMPILER__2Task1_unscanned_
 #############################################
 # Link the executable 2Task1.exe
 
-build 2Task1.exe: CXX_EXECUTABLE_LINKER__2Task1_Debug CMakeFiles/2Task1.dir/Week2/Task1.cpp.obj
+build 2Task1.exe: CXX_EXECUTABLE_LINKER__2Task1_Debug CMakeFiles/2Task1.dir/Practice/Week2/Task1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task1.dir
@@ -445,11 +445,11 @@ build 2Task1.exe: CXX_EXECUTABLE_LINKER__2Task1_Debug CMakeFiles/2Task1.dir/Week
 
 build cmake_object_order_depends_target_2Task2: phony || CMakeFiles/2Task2.dir
 
-build CMakeFiles/2Task2.dir/Week2/Task2.cpp.obj: CXX_COMPILER__2Task2_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task2.cpp || cmake_object_order_depends_target_2Task2
-  DEP_FILE = CMakeFiles\2Task2.dir\Week2\Task2.cpp.obj.d
+build CMakeFiles/2Task2.dir/Practice/Week2/Task2.cpp.obj: CXX_COMPILER__2Task2_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task2.cpp || cmake_object_order_depends_target_2Task2
+  DEP_FILE = CMakeFiles\2Task2.dir\Practice\Week2\Task2.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task2.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task2.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task2.dir\Practice\Week2
 
 
 # =============================================================================
@@ -459,7 +459,7 @@ build CMakeFiles/2Task2.dir/Week2/Task2.cpp.obj: CXX_COMPILER__2Task2_unscanned_
 #############################################
 # Link the executable 2Task2.exe
 
-build 2Task2.exe: CXX_EXECUTABLE_LINKER__2Task2_Debug CMakeFiles/2Task2.dir/Week2/Task2.cpp.obj
+build 2Task2.exe: CXX_EXECUTABLE_LINKER__2Task2_Debug CMakeFiles/2Task2.dir/Practice/Week2/Task2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task2.dir
@@ -478,11 +478,11 @@ build 2Task2.exe: CXX_EXECUTABLE_LINKER__2Task2_Debug CMakeFiles/2Task2.dir/Week
 
 build cmake_object_order_depends_target_2Task3: phony || CMakeFiles/2Task3.dir
 
-build CMakeFiles/2Task3.dir/Week2/Task3.cpp.obj: CXX_COMPILER__2Task3_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task3.cpp || cmake_object_order_depends_target_2Task3
-  DEP_FILE = CMakeFiles\2Task3.dir\Week2\Task3.cpp.obj.d
+build CMakeFiles/2Task3.dir/Practice/Week2/Task3.cpp.obj: CXX_COMPILER__2Task3_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task3.cpp || cmake_object_order_depends_target_2Task3
+  DEP_FILE = CMakeFiles\2Task3.dir\Practice\Week2\Task3.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task3.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task3.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task3.dir\Practice\Week2
 
 
 # =============================================================================
@@ -492,7 +492,7 @@ build CMakeFiles/2Task3.dir/Week2/Task3.cpp.obj: CXX_COMPILER__2Task3_unscanned_
 #############################################
 # Link the executable 2Task3.exe
 
-build 2Task3.exe: CXX_EXECUTABLE_LINKER__2Task3_Debug CMakeFiles/2Task3.dir/Week2/Task3.cpp.obj
+build 2Task3.exe: CXX_EXECUTABLE_LINKER__2Task3_Debug CMakeFiles/2Task3.dir/Practice/Week2/Task3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task3.dir
@@ -511,11 +511,11 @@ build 2Task3.exe: CXX_EXECUTABLE_LINKER__2Task3_Debug CMakeFiles/2Task3.dir/Week
 
 build cmake_object_order_depends_target_2Task4: phony || CMakeFiles/2Task4.dir
 
-build CMakeFiles/2Task4.dir/Week2/Task4.cpp.obj: CXX_COMPILER__2Task4_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task4.cpp || cmake_object_order_depends_target_2Task4
-  DEP_FILE = CMakeFiles\2Task4.dir\Week2\Task4.cpp.obj.d
+build CMakeFiles/2Task4.dir/Practice/Week2/Task4.cpp.obj: CXX_COMPILER__2Task4_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task4.cpp || cmake_object_order_depends_target_2Task4
+  DEP_FILE = CMakeFiles\2Task4.dir\Practice\Week2\Task4.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task4.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task4.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task4.dir\Practice\Week2
 
 
 # =============================================================================
@@ -525,7 +525,7 @@ build CMakeFiles/2Task4.dir/Week2/Task4.cpp.obj: CXX_COMPILER__2Task4_unscanned_
 #############################################
 # Link the executable 2Task4.exe
 
-build 2Task4.exe: CXX_EXECUTABLE_LINKER__2Task4_Debug CMakeFiles/2Task4.dir/Week2/Task4.cpp.obj
+build 2Task4.exe: CXX_EXECUTABLE_LINKER__2Task4_Debug CMakeFiles/2Task4.dir/Practice/Week2/Task4.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task4.dir
@@ -544,11 +544,11 @@ build 2Task4.exe: CXX_EXECUTABLE_LINKER__2Task4_Debug CMakeFiles/2Task4.dir/Week
 
 build cmake_object_order_depends_target_2Task5: phony || CMakeFiles/2Task5.dir
 
-build CMakeFiles/2Task5.dir/Week2/Task5.cpp.obj: CXX_COMPILER__2Task5_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task5.cpp || cmake_object_order_depends_target_2Task5
-  DEP_FILE = CMakeFiles\2Task5.dir\Week2\Task5.cpp.obj.d
+build CMakeFiles/2Task5.dir/Practice/Week2/Task5.cpp.obj: CXX_COMPILER__2Task5_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task5.cpp || cmake_object_order_depends_target_2Task5
+  DEP_FILE = CMakeFiles\2Task5.dir\Practice\Week2\Task5.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task5.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task5.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task5.dir\Practice\Week2
 
 
 # =============================================================================
@@ -558,7 +558,7 @@ build CMakeFiles/2Task5.dir/Week2/Task5.cpp.obj: CXX_COMPILER__2Task5_unscanned_
 #############################################
 # Link the executable 2Task5.exe
 
-build 2Task5.exe: CXX_EXECUTABLE_LINKER__2Task5_Debug CMakeFiles/2Task5.dir/Week2/Task5.cpp.obj
+build 2Task5.exe: CXX_EXECUTABLE_LINKER__2Task5_Debug CMakeFiles/2Task5.dir/Practice/Week2/Task5.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task5.dir
@@ -577,11 +577,11 @@ build 2Task5.exe: CXX_EXECUTABLE_LINKER__2Task5_Debug CMakeFiles/2Task5.dir/Week
 
 build cmake_object_order_depends_target_2Task6: phony || CMakeFiles/2Task6.dir
 
-build CMakeFiles/2Task6.dir/Week2/Task6.cpp.obj: CXX_COMPILER__2Task6_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task6.cpp || cmake_object_order_depends_target_2Task6
-  DEP_FILE = CMakeFiles\2Task6.dir\Week2\Task6.cpp.obj.d
+build CMakeFiles/2Task6.dir/Practice/Week2/Task6.cpp.obj: CXX_COMPILER__2Task6_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task6.cpp || cmake_object_order_depends_target_2Task6
+  DEP_FILE = CMakeFiles\2Task6.dir\Practice\Week2\Task6.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task6.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task6.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task6.dir\Practice\Week2
 
 
 # =============================================================================
@@ -591,7 +591,7 @@ build CMakeFiles/2Task6.dir/Week2/Task6.cpp.obj: CXX_COMPILER__2Task6_unscanned_
 #############################################
 # Link the executable 2Task6.exe
 
-build 2Task6.exe: CXX_EXECUTABLE_LINKER__2Task6_Debug CMakeFiles/2Task6.dir/Week2/Task6.cpp.obj
+build 2Task6.exe: CXX_EXECUTABLE_LINKER__2Task6_Debug CMakeFiles/2Task6.dir/Practice/Week2/Task6.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task6.dir
@@ -610,11 +610,11 @@ build 2Task6.exe: CXX_EXECUTABLE_LINKER__2Task6_Debug CMakeFiles/2Task6.dir/Week
 
 build cmake_object_order_depends_target_2Task7: phony || CMakeFiles/2Task7.dir
 
-build CMakeFiles/2Task7.dir/Week2/Task7.cpp.obj: CXX_COMPILER__2Task7_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task7.cpp || cmake_object_order_depends_target_2Task7
-  DEP_FILE = CMakeFiles\2Task7.dir\Week2\Task7.cpp.obj.d
+build CMakeFiles/2Task7.dir/Practice/Week2/Task7.cpp.obj: CXX_COMPILER__2Task7_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task7.cpp || cmake_object_order_depends_target_2Task7
+  DEP_FILE = CMakeFiles\2Task7.dir\Practice\Week2\Task7.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task7.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task7.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task7.dir\Practice\Week2
 
 
 # =============================================================================
@@ -624,7 +624,7 @@ build CMakeFiles/2Task7.dir/Week2/Task7.cpp.obj: CXX_COMPILER__2Task7_unscanned_
 #############################################
 # Link the executable 2Task7.exe
 
-build 2Task7.exe: CXX_EXECUTABLE_LINKER__2Task7_Debug CMakeFiles/2Task7.dir/Week2/Task7.cpp.obj
+build 2Task7.exe: CXX_EXECUTABLE_LINKER__2Task7_Debug CMakeFiles/2Task7.dir/Practice/Week2/Task7.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task7.dir
@@ -643,11 +643,11 @@ build 2Task7.exe: CXX_EXECUTABLE_LINKER__2Task7_Debug CMakeFiles/2Task7.dir/Week
 
 build cmake_object_order_depends_target_2Task8: phony || CMakeFiles/2Task8.dir
 
-build CMakeFiles/2Task8.dir/Week2/Task8.cpp.obj: CXX_COMPILER__2Task8_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task8.cpp || cmake_object_order_depends_target_2Task8
-  DEP_FILE = CMakeFiles\2Task8.dir\Week2\Task8.cpp.obj.d
+build CMakeFiles/2Task8.dir/Practice/Week2/Task8.cpp.obj: CXX_COMPILER__2Task8_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task8.cpp || cmake_object_order_depends_target_2Task8
+  DEP_FILE = CMakeFiles\2Task8.dir\Practice\Week2\Task8.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task8.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task8.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task8.dir\Practice\Week2
 
 
 # =============================================================================
@@ -657,7 +657,7 @@ build CMakeFiles/2Task8.dir/Week2/Task8.cpp.obj: CXX_COMPILER__2Task8_unscanned_
 #############################################
 # Link the executable 2Task8.exe
 
-build 2Task8.exe: CXX_EXECUTABLE_LINKER__2Task8_Debug CMakeFiles/2Task8.dir/Week2/Task8.cpp.obj
+build 2Task8.exe: CXX_EXECUTABLE_LINKER__2Task8_Debug CMakeFiles/2Task8.dir/Practice/Week2/Task8.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task8.dir
@@ -676,11 +676,11 @@ build 2Task8.exe: CXX_EXECUTABLE_LINKER__2Task8_Debug CMakeFiles/2Task8.dir/Week
 
 build cmake_object_order_depends_target_2Task9: phony || CMakeFiles/2Task9.dir
 
-build CMakeFiles/2Task9.dir/Week2/Task9.cpp.obj: CXX_COMPILER__2Task9_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task9.cpp || cmake_object_order_depends_target_2Task9
-  DEP_FILE = CMakeFiles\2Task9.dir\Week2\Task9.cpp.obj.d
+build CMakeFiles/2Task9.dir/Practice/Week2/Task9.cpp.obj: CXX_COMPILER__2Task9_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task9.cpp || cmake_object_order_depends_target_2Task9
+  DEP_FILE = CMakeFiles\2Task9.dir\Practice\Week2\Task9.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task9.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task9.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task9.dir\Practice\Week2
 
 
 # =============================================================================
@@ -690,7 +690,7 @@ build CMakeFiles/2Task9.dir/Week2/Task9.cpp.obj: CXX_COMPILER__2Task9_unscanned_
 #############################################
 # Link the executable 2Task9.exe
 
-build 2Task9.exe: CXX_EXECUTABLE_LINKER__2Task9_Debug CMakeFiles/2Task9.dir/Week2/Task9.cpp.obj
+build 2Task9.exe: CXX_EXECUTABLE_LINKER__2Task9_Debug CMakeFiles/2Task9.dir/Practice/Week2/Task9.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task9.dir
@@ -709,11 +709,11 @@ build 2Task9.exe: CXX_EXECUTABLE_LINKER__2Task9_Debug CMakeFiles/2Task9.dir/Week
 
 build cmake_object_order_depends_target_2Task10: phony || CMakeFiles/2Task10.dir
 
-build CMakeFiles/2Task10.dir/Week2/Task10.cpp.obj: CXX_COMPILER__2Task10_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task10.cpp || cmake_object_order_depends_target_2Task10
-  DEP_FILE = CMakeFiles\2Task10.dir\Week2\Task10.cpp.obj.d
+build CMakeFiles/2Task10.dir/Practice/Week2/Task10.cpp.obj: CXX_COMPILER__2Task10_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task10.cpp || cmake_object_order_depends_target_2Task10
+  DEP_FILE = CMakeFiles\2Task10.dir\Practice\Week2\Task10.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task10.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task10.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task10.dir\Practice\Week2
 
 
 # =============================================================================
@@ -723,7 +723,7 @@ build CMakeFiles/2Task10.dir/Week2/Task10.cpp.obj: CXX_COMPILER__2Task10_unscann
 #############################################
 # Link the executable 2Task10.exe
 
-build 2Task10.exe: CXX_EXECUTABLE_LINKER__2Task10_Debug CMakeFiles/2Task10.dir/Week2/Task10.cpp.obj
+build 2Task10.exe: CXX_EXECUTABLE_LINKER__2Task10_Debug CMakeFiles/2Task10.dir/Practice/Week2/Task10.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task10.dir
@@ -742,11 +742,11 @@ build 2Task10.exe: CXX_EXECUTABLE_LINKER__2Task10_Debug CMakeFiles/2Task10.dir/W
 
 build cmake_object_order_depends_target_2Task11: phony || CMakeFiles/2Task11.dir
 
-build CMakeFiles/2Task11.dir/Week2/Task11.cpp.obj: CXX_COMPILER__2Task11_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task11.cpp || cmake_object_order_depends_target_2Task11
-  DEP_FILE = CMakeFiles\2Task11.dir\Week2\Task11.cpp.obj.d
+build CMakeFiles/2Task11.dir/Practice/Week2/Task11.cpp.obj: CXX_COMPILER__2Task11_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task11.cpp || cmake_object_order_depends_target_2Task11
+  DEP_FILE = CMakeFiles\2Task11.dir\Practice\Week2\Task11.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task11.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task11.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task11.dir\Practice\Week2
 
 
 # =============================================================================
@@ -756,7 +756,7 @@ build CMakeFiles/2Task11.dir/Week2/Task11.cpp.obj: CXX_COMPILER__2Task11_unscann
 #############################################
 # Link the executable 2Task11.exe
 
-build 2Task11.exe: CXX_EXECUTABLE_LINKER__2Task11_Debug CMakeFiles/2Task11.dir/Week2/Task11.cpp.obj
+build 2Task11.exe: CXX_EXECUTABLE_LINKER__2Task11_Debug CMakeFiles/2Task11.dir/Practice/Week2/Task11.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task11.dir
@@ -775,11 +775,11 @@ build 2Task11.exe: CXX_EXECUTABLE_LINKER__2Task11_Debug CMakeFiles/2Task11.dir/W
 
 build cmake_object_order_depends_target_2Task12: phony || CMakeFiles/2Task12.dir
 
-build CMakeFiles/2Task12.dir/Week2/Task12.cpp.obj: CXX_COMPILER__2Task12_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task12.cpp || cmake_object_order_depends_target_2Task12
-  DEP_FILE = CMakeFiles\2Task12.dir\Week2\Task12.cpp.obj.d
+build CMakeFiles/2Task12.dir/Practice/Week2/Task12.cpp.obj: CXX_COMPILER__2Task12_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task12.cpp || cmake_object_order_depends_target_2Task12
+  DEP_FILE = CMakeFiles\2Task12.dir\Practice\Week2\Task12.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task12.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task12.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task12.dir\Practice\Week2
 
 
 # =============================================================================
@@ -789,7 +789,7 @@ build CMakeFiles/2Task12.dir/Week2/Task12.cpp.obj: CXX_COMPILER__2Task12_unscann
 #############################################
 # Link the executable 2Task12.exe
 
-build 2Task12.exe: CXX_EXECUTABLE_LINKER__2Task12_Debug CMakeFiles/2Task12.dir/Week2/Task12.cpp.obj
+build 2Task12.exe: CXX_EXECUTABLE_LINKER__2Task12_Debug CMakeFiles/2Task12.dir/Practice/Week2/Task12.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task12.dir
@@ -808,11 +808,11 @@ build 2Task12.exe: CXX_EXECUTABLE_LINKER__2Task12_Debug CMakeFiles/2Task12.dir/W
 
 build cmake_object_order_depends_target_2Task13: phony || CMakeFiles/2Task13.dir
 
-build CMakeFiles/2Task13.dir/Week2/Task13.cpp.obj: CXX_COMPILER__2Task13_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task13.cpp || cmake_object_order_depends_target_2Task13
-  DEP_FILE = CMakeFiles\2Task13.dir\Week2\Task13.cpp.obj.d
+build CMakeFiles/2Task13.dir/Practice/Week2/Task13.cpp.obj: CXX_COMPILER__2Task13_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task13.cpp || cmake_object_order_depends_target_2Task13
+  DEP_FILE = CMakeFiles\2Task13.dir\Practice\Week2\Task13.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task13.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task13.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task13.dir\Practice\Week2
 
 
 # =============================================================================
@@ -822,7 +822,7 @@ build CMakeFiles/2Task13.dir/Week2/Task13.cpp.obj: CXX_COMPILER__2Task13_unscann
 #############################################
 # Link the executable 2Task13.exe
 
-build 2Task13.exe: CXX_EXECUTABLE_LINKER__2Task13_Debug CMakeFiles/2Task13.dir/Week2/Task13.cpp.obj
+build 2Task13.exe: CXX_EXECUTABLE_LINKER__2Task13_Debug CMakeFiles/2Task13.dir/Practice/Week2/Task13.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task13.dir
@@ -841,11 +841,11 @@ build 2Task13.exe: CXX_EXECUTABLE_LINKER__2Task13_Debug CMakeFiles/2Task13.dir/W
 
 build cmake_object_order_depends_target_2Task14: phony || CMakeFiles/2Task14.dir
 
-build CMakeFiles/2Task14.dir/Week2/Task14.cpp.obj: CXX_COMPILER__2Task14_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task14.cpp || cmake_object_order_depends_target_2Task14
-  DEP_FILE = CMakeFiles\2Task14.dir\Week2\Task14.cpp.obj.d
+build CMakeFiles/2Task14.dir/Practice/Week2/Task14.cpp.obj: CXX_COMPILER__2Task14_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task14.cpp || cmake_object_order_depends_target_2Task14
+  DEP_FILE = CMakeFiles\2Task14.dir\Practice\Week2\Task14.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task14.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task14.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task14.dir\Practice\Week2
 
 
 # =============================================================================
@@ -855,7 +855,7 @@ build CMakeFiles/2Task14.dir/Week2/Task14.cpp.obj: CXX_COMPILER__2Task14_unscann
 #############################################
 # Link the executable 2Task14.exe
 
-build 2Task14.exe: CXX_EXECUTABLE_LINKER__2Task14_Debug CMakeFiles/2Task14.dir/Week2/Task14.cpp.obj
+build 2Task14.exe: CXX_EXECUTABLE_LINKER__2Task14_Debug CMakeFiles/2Task14.dir/Practice/Week2/Task14.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task14.dir
@@ -874,11 +874,11 @@ build 2Task14.exe: CXX_EXECUTABLE_LINKER__2Task14_Debug CMakeFiles/2Task14.dir/W
 
 build cmake_object_order_depends_target_2Task15: phony || CMakeFiles/2Task15.dir
 
-build CMakeFiles/2Task15.dir/Week2/Task15.cpp.obj: CXX_COMPILER__2Task15_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Week2/Task15.cpp || cmake_object_order_depends_target_2Task15
-  DEP_FILE = CMakeFiles\2Task15.dir\Week2\Task15.cpp.obj.d
+build CMakeFiles/2Task15.dir/Practice/Week2/Task15.cpp.obj: CXX_COMPILER__2Task15_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week2/Task15.cpp || cmake_object_order_depends_target_2Task15
+  DEP_FILE = CMakeFiles\2Task15.dir\Practice\Week2\Task15.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2Task15.dir
-  OBJECT_FILE_DIR = CMakeFiles\2Task15.dir\Week2
+  OBJECT_FILE_DIR = CMakeFiles\2Task15.dir\Practice\Week2
 
 
 # =============================================================================
@@ -888,7 +888,7 @@ build CMakeFiles/2Task15.dir/Week2/Task15.cpp.obj: CXX_COMPILER__2Task15_unscann
 #############################################
 # Link the executable 2Task15.exe
 
-build 2Task15.exe: CXX_EXECUTABLE_LINKER__2Task15_Debug CMakeFiles/2Task15.dir/Week2/Task15.cpp.obj
+build 2Task15.exe: CXX_EXECUTABLE_LINKER__2Task15_Debug CMakeFiles/2Task15.dir/Practice/Week2/Task15.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2Task15.dir
