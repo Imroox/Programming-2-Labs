@@ -40,7 +40,16 @@
 						22,
 						23,
 						24,
-						25
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
 					]
 				}
 			],
@@ -80,7 +89,16 @@
 						22,
 						23,
 						24,
-						25
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
 					]
 				}
 			],
@@ -189,6 +207,69 @@
 					"id" : "2Task9::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-2Task9-Debug-73eb1f97f67233747fd8.json",
 					"name" : "2Task9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3Task1-Debug-e6d49bfdde5fa9861498.json",
+					"name" : "3Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3Task2-Debug-0021b53ab4a4ff3a450b.json",
+					"name" : "3Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3Task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3Task3-Debug-17472da295f79c99d7ac.json",
+					"name" : "3Task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3Task4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3Task4-Debug-63ebe35565584713c28e.json",
+					"name" : "3Task4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3Task5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3Task5-Debug-2a851c7c43541016a637.json",
+					"name" : "3Task5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3Task6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3Task6-Debug-a7caf26aa72483272dfe.json",
+					"name" : "3Task6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3Task7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3Task7-Debug-48ce9d4b12ec7a46041c.json",
+					"name" : "3Task7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3Task8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3Task8-Debug-b9f89caa73261c43ad09.json",
+					"name" : "3Task8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3Task9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3Task9-Debug-a706067bb04c638ffd18.json",
+					"name" : "3Task9",
 					"projectIndex" : 0
 				},
 				{
