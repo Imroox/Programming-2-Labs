@@ -1855,6 +1855,336 @@ build 4Task20.exe: CXX_EXECUTABLE_LINKER__4Task20_Debug CMakeFiles/4Task20.dir/P
   TARGET_IMPLIB = lib4Task20.dll.a
   TARGET_PDB = 4Task20.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task1
+
+
+#############################################
+# Order-only phony target for 5Task1
+
+build cmake_object_order_depends_target_5Task1: phony || CMakeFiles/5Task1.dir
+
+build CMakeFiles/5Task1.dir/Practice/Week5/Task1.cpp.obj: CXX_COMPILER__5Task1_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task1.cpp || cmake_object_order_depends_target_5Task1
+  DEP_FILE = CMakeFiles\5Task1.dir\Practice\Week5\Task1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task1.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task1.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task1
+
+
+#############################################
+# Link the executable 5Task1.exe
+
+build 5Task1.exe: CXX_EXECUTABLE_LINKER__5Task1_Debug CMakeFiles/5Task1.dir/Practice/Week5/Task1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task1.exe
+  TARGET_IMPLIB = lib5Task1.dll.a
+  TARGET_PDB = 5Task1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task2
+
+
+#############################################
+# Order-only phony target for 5Task2
+
+build cmake_object_order_depends_target_5Task2: phony || CMakeFiles/5Task2.dir
+
+build CMakeFiles/5Task2.dir/Practice/Week5/Task2.cpp.obj: CXX_COMPILER__5Task2_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task2.cpp || cmake_object_order_depends_target_5Task2
+  DEP_FILE = CMakeFiles\5Task2.dir\Practice\Week5\Task2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task2.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task2.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task2
+
+
+#############################################
+# Link the executable 5Task2.exe
+
+build 5Task2.exe: CXX_EXECUTABLE_LINKER__5Task2_Debug CMakeFiles/5Task2.dir/Practice/Week5/Task2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task2.exe
+  TARGET_IMPLIB = lib5Task2.dll.a
+  TARGET_PDB = 5Task2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task3
+
+
+#############################################
+# Order-only phony target for 5Task3
+
+build cmake_object_order_depends_target_5Task3: phony || CMakeFiles/5Task3.dir
+
+build CMakeFiles/5Task3.dir/Practice/Week5/Task3.cpp.obj: CXX_COMPILER__5Task3_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task3.cpp || cmake_object_order_depends_target_5Task3
+  DEP_FILE = CMakeFiles\5Task3.dir\Practice\Week5\Task3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task3.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task3.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task3
+
+
+#############################################
+# Link the executable 5Task3.exe
+
+build 5Task3.exe: CXX_EXECUTABLE_LINKER__5Task3_Debug CMakeFiles/5Task3.dir/Practice/Week5/Task3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task3.exe
+  TARGET_IMPLIB = lib5Task3.dll.a
+  TARGET_PDB = 5Task3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task4
+
+
+#############################################
+# Order-only phony target for 5Task4
+
+build cmake_object_order_depends_target_5Task4: phony || CMakeFiles/5Task4.dir
+
+build CMakeFiles/5Task4.dir/Practice/Week5/Task4.cpp.obj: CXX_COMPILER__5Task4_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task4.cpp || cmake_object_order_depends_target_5Task4
+  DEP_FILE = CMakeFiles\5Task4.dir\Practice\Week5\Task4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task4.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task4.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task4
+
+
+#############################################
+# Link the executable 5Task4.exe
+
+build 5Task4.exe: CXX_EXECUTABLE_LINKER__5Task4_Debug CMakeFiles/5Task4.dir/Practice/Week5/Task4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task4.exe
+  TARGET_IMPLIB = lib5Task4.dll.a
+  TARGET_PDB = 5Task4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task5
+
+
+#############################################
+# Order-only phony target for 5Task5
+
+build cmake_object_order_depends_target_5Task5: phony || CMakeFiles/5Task5.dir
+
+build CMakeFiles/5Task5.dir/Practice/Week5/Task5.cpp.obj: CXX_COMPILER__5Task5_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task5.cpp || cmake_object_order_depends_target_5Task5
+  DEP_FILE = CMakeFiles\5Task5.dir\Practice\Week5\Task5.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task5.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task5.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task5
+
+
+#############################################
+# Link the executable 5Task5.exe
+
+build 5Task5.exe: CXX_EXECUTABLE_LINKER__5Task5_Debug CMakeFiles/5Task5.dir/Practice/Week5/Task5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task5.exe
+  TARGET_IMPLIB = lib5Task5.dll.a
+  TARGET_PDB = 5Task5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task6
+
+
+#############################################
+# Order-only phony target for 5Task6
+
+build cmake_object_order_depends_target_5Task6: phony || CMakeFiles/5Task6.dir
+
+build CMakeFiles/5Task6.dir/Practice/Week5/Task6.cpp.obj: CXX_COMPILER__5Task6_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task6.cpp || cmake_object_order_depends_target_5Task6
+  DEP_FILE = CMakeFiles\5Task6.dir\Practice\Week5\Task6.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task6.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task6.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task6
+
+
+#############################################
+# Link the executable 5Task6.exe
+
+build 5Task6.exe: CXX_EXECUTABLE_LINKER__5Task6_Debug CMakeFiles/5Task6.dir/Practice/Week5/Task6.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task6.exe
+  TARGET_IMPLIB = lib5Task6.dll.a
+  TARGET_PDB = 5Task6.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task7
+
+
+#############################################
+# Order-only phony target for 5Task7
+
+build cmake_object_order_depends_target_5Task7: phony || CMakeFiles/5Task7.dir
+
+build CMakeFiles/5Task7.dir/Practice/Week5/Task7.cpp.obj: CXX_COMPILER__5Task7_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task7.cpp || cmake_object_order_depends_target_5Task7
+  DEP_FILE = CMakeFiles\5Task7.dir\Practice\Week5\Task7.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task7.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task7.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task7
+
+
+#############################################
+# Link the executable 5Task7.exe
+
+build 5Task7.exe: CXX_EXECUTABLE_LINKER__5Task7_Debug CMakeFiles/5Task7.dir/Practice/Week5/Task7.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task7.exe
+  TARGET_IMPLIB = lib5Task7.dll.a
+  TARGET_PDB = 5Task7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task8
+
+
+#############################################
+# Order-only phony target for 5Task8
+
+build cmake_object_order_depends_target_5Task8: phony || CMakeFiles/5Task8.dir
+
+build CMakeFiles/5Task8.dir/Practice/Week5/Task8.cpp.obj: CXX_COMPILER__5Task8_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task8.cpp || cmake_object_order_depends_target_5Task8
+  DEP_FILE = CMakeFiles\5Task8.dir\Practice\Week5\Task8.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task8.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task8.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task8
+
+
+#############################################
+# Link the executable 5Task8.exe
+
+build 5Task8.exe: CXX_EXECUTABLE_LINKER__5Task8_Debug CMakeFiles/5Task8.dir/Practice/Week5/Task8.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task8.exe
+  TARGET_IMPLIB = lib5Task8.dll.a
+  TARGET_PDB = 5Task8.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task9
+
+
+#############################################
+# Order-only phony target for 5Task9
+
+build cmake_object_order_depends_target_5Task9: phony || CMakeFiles/5Task9.dir
+
+build CMakeFiles/5Task9.dir/Practice/Week5/Task9.cpp.obj: CXX_COMPILER__5Task9_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task9.cpp || cmake_object_order_depends_target_5Task9
+  DEP_FILE = CMakeFiles\5Task9.dir\Practice\Week5\Task9.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task9.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task9.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task9
+
+
+#############################################
+# Link the executable 5Task9.exe
+
+build 5Task9.exe: CXX_EXECUTABLE_LINKER__5Task9_Debug CMakeFiles/5Task9.dir/Practice/Week5/Task9.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task9.exe
+  TARGET_IMPLIB = lib5Task9.dll.a
+  TARGET_PDB = 5Task9.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5Task10
+
+
+#############################################
+# Order-only phony target for 5Task10
+
+build cmake_object_order_depends_target_5Task10: phony || CMakeFiles/5Task10.dir
+
+build CMakeFiles/5Task10.dir/Practice/Week5/Task10.cpp.obj: CXX_COMPILER__5Task10_unscanned_Debug C$:/Users/Korisnik/CLionProjects/LabTasks1/Practice/Week5/Task10.cpp || cmake_object_order_depends_target_5Task10
+  DEP_FILE = CMakeFiles\5Task10.dir\Practice\Week5\Task10.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5Task10.dir
+  OBJECT_FILE_DIR = CMakeFiles\5Task10.dir\Practice\Week5
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5Task10
+
+
+#############################################
+# Link the executable 5Task10.exe
+
+build 5Task10.exe: CXX_EXECUTABLE_LINKER__5Task10_Debug CMakeFiles/5Task10.dir/Practice/Week5/Task10.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5Task10.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5Task10.exe
+  TARGET_IMPLIB = lib5Task10.dll.a
+  TARGET_PDB = 5Task10.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1969,6 +2299,26 @@ build 4Task8: phony 4Task8.exe
 
 build 4Task9: phony 4Task9.exe
 
+build 5Task1: phony 5Task1.exe
+
+build 5Task10: phony 5Task10.exe
+
+build 5Task2: phony 5Task2.exe
+
+build 5Task3: phony 5Task3.exe
+
+build 5Task4: phony 5Task4.exe
+
+build 5Task5: phony 5Task5.exe
+
+build 5Task6: phony 5Task6.exe
+
+build 5Task7: phony 5Task7.exe
+
+build 5Task8: phony 5Task8.exe
+
+build 5Task9: phony 5Task9.exe
+
 build Task1: phony Task1.exe
 
 build Task10: phony Task10.exe
@@ -1999,7 +2349,7 @@ build Task9: phony Task9.exe
 #############################################
 # Folder: C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug
 
-build all: phony Task1.exe Task2.exe Task3.exe Task4.exe Task5.exe Task6.exe Task7.exe Task8.exe Task9.exe Task10.exe Task11.exe 2Task1.exe 2Task2.exe 2Task3.exe 2Task4.exe 2Task5.exe 2Task6.exe 2Task7.exe 2Task8.exe 2Task9.exe 2Task10.exe 2Task11.exe 2Task12.exe 2Task13.exe 2Task14.exe 2Task15.exe 3Task1.exe 3Task2.exe 3Task3.exe 3Task4.exe 3Task5.exe 3Task6.exe 3Task7.exe 3Task8.exe 3Task9.exe 4Task1.exe 4Task2.exe 4Task3.exe 4Task4.exe 4Task5.exe 4Task6.exe 4Task7.exe 4Task8.exe 4Task9.exe 4Task10.exe 4Task11.exe 4Task12.exe 4Task13.exe 4Task14.exe 4Task15.exe 4Task16.exe 4Task17.exe 4Task18.exe 4Task19.exe 4Task20.exe
+build all: phony Task1.exe Task2.exe Task3.exe Task4.exe Task5.exe Task6.exe Task7.exe Task8.exe Task9.exe Task10.exe Task11.exe 2Task1.exe 2Task2.exe 2Task3.exe 2Task4.exe 2Task5.exe 2Task6.exe 2Task7.exe 2Task8.exe 2Task9.exe 2Task10.exe 2Task11.exe 2Task12.exe 2Task13.exe 2Task14.exe 2Task15.exe 3Task1.exe 3Task2.exe 3Task3.exe 3Task4.exe 3Task5.exe 3Task6.exe 3Task7.exe 3Task8.exe 3Task9.exe 4Task1.exe 4Task2.exe 4Task3.exe 4Task4.exe 4Task5.exe 4Task6.exe 4Task7.exe 4Task8.exe 4Task9.exe 4Task10.exe 4Task11.exe 4Task12.exe 4Task13.exe 4Task14.exe 4Task15.exe 4Task16.exe 4Task17.exe 4Task18.exe 4Task19.exe 4Task20.exe 5Task1.exe 5Task2.exe 5Task3.exe 5Task4.exe 5Task5.exe 5Task6.exe 5Task7.exe 5Task8.exe 5Task9.exe 5Task10.exe
 
 # =============================================================================
 # Built-in targets

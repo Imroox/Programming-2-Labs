@@ -53,5 +53,15 @@ C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/4Task17.d
 C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/4Task18.dir
 C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/4Task19.dir
 C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/4Task20.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task1.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task2.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task3.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task4.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task5.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task6.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task7.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task8.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task9.dir
+C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/5Task10.dir
 C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Korisnik/CLionProjects/LabTasks1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
