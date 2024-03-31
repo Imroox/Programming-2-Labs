@@ -74,6 +74,14 @@ add_executable(5Task7 Practice/Week5/Task7.cpp)
 add_executable(5Task8 Practice/Week5/Task8.cpp)
 add_executable(5Task9 Practice/Week5/Task9.cpp)
 add_executable(5Task10 Practice/Week5/Task10.cpp)
+add_executable(5Task11 Practice/Week5/Task11.cpp)
+add_executable(5Task12 Practice/Week5/Task12.cpp)
+add_executable(5Task13 Practice/Week5/Task13.cpp)
+add_executable(5Task14 Practice/Week5/Task14.cpp)
+add_executable(5Task15 Practice/Week5/Task15.cpp)
+add_executable(5Task16 Practice/Week5/Task16.cpp)
+add_executable(5Task17 Practice/Week5/Task17.cpp)
+add_executable(5Task18 Practice/Week5/Task18.cpp)
 
 
 
